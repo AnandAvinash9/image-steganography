@@ -1,4 +1,3 @@
-````markdown
 # IMAGE-STEGANOGRAPHY
 
 *Securely Hide Messages in Plain Sight Using the Power of Python*
@@ -54,12 +53,13 @@ Ensure the following are installed on your system:
 
 ---
 
+````
 ### Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/AnandAvinash9/image-steganography
-````
+
 
 2. **Navigate to the project directory**:
 
