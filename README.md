@@ -1,8 +1,6 @@
 # IMAGE-STEGANOGRAPHY
 
 *Securely Hide Messages in Plain Sight Using the Power of Python*
-
-![last commit](https://img.shields.io/github/last-commit/AnandAvinash9/image-steganography)
 ![python](https://img.shields.io/badge/python-100%25-blue)
 ![languages](https://img.shields.io/github/languages/count/AnandAvinash9/image-steganography)
 
