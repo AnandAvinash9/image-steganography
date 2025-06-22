@@ -53,7 +53,6 @@ Ensure the following are installed on your system:
 
 ---
 
-````
 ### Installation
 
 1. **Clone the repository**:
